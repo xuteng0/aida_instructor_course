@@ -99,16 +99,49 @@ This document summarizes peer-reviewed studies that explore the use of **tympano
 
 ---
 
-## Summary Table: Equalisation in Tympanometry Studies
+## 7. Impedance Audiometry in Tympanoplasty Patients
 
-| Study Title | Equalisation Assessed | Method | Finding |
-|-------------|------------------------|--------|---------|
-| ET Function Test as Predictor | ✅ Yes | Tympanometry + Valsalva | >20 daPa shift → successful equalisation |
-| ET Function in Pressure Chamber | ✅ Yes | Tympanometry + maneuvers under pressure | ET opening observed via pressure shifts |
-| Pressure Chamber Tympanometry | ✅ Yes | Tympanometry inside hyperbaric chamber | Found subclinical ET dysfunction |
-| MEBT in Recreational Divers | ❌ No | Post-dive tympanometry | Detected temporary barotrauma |
-| Regular Diving Middle Ear Health | ❌ No | Wideband tympanometry | Long-term effects assessed only |
-| Tymp. Eval of MEBT in Divers | ⚠️ Indirect | Dive repetition effects | Detected middle ear stress, not active equalisation |
+* **Title**: *Role of Impedance Audiometry in Evaluation of Eustachian Tube Function*
+* **Authors**: Kanchan Rahul Tadke, Vaibhav J Lahane, P.T. Wakode
+* **Journal**: *IOSR Journal of Dental and Medical Sciences* (2017)
+* **Summary**:
+  Evaluated ET function using impedance audiometry in tympanoplasty patients.
+* **Equalisation Assessed?** ✅ Yes
+* **Key Findings**:
+
+  * Normal ET function predicted better surgical outcomes.
+  * Impedance audiometry effectively screened for ET dysfunction, relevant to diving barotrauma risk.
+* **Link**: [PDF](https://www.iosrjournals.org/iosr-jdms/papers/Vol16-issue6/Version-2/H1606024549.pdf)
 
 ---
 
+## 8. Combined Endoscopy and Impedance Audiometry
+
+* **Title**: *Dynamic Slow Motion Video Endoscopy as an Adjunct to Impedance Audiometry*
+* **Authors**: Sanoup E. Sanoup et al.
+* **Journal**: *International Archives of Otorhinolaryngology* (2018)
+* **Summary**:
+  Combined slow-motion nasal endoscopy with impedance audiometry to assess ET function.
+* **Equalisation Assessed?** ✅ Yes
+* **Key Findings**:
+
+  * Dual-method testing enhanced diagnostic sensitivity.
+  * Valuable for identifying subtle ET dysfunctions in divers.
+* **Link**: [PDF](https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0037-1603920.pdf)
+
+---
+
+## Summary Table: Equalisation in Tympanometry & Impedance Audiometry Studies
+
+| Study Title                      | Equalisation Assessed | Method                                    | Finding                                             |
+| -------------------------------- | --------------------- | ----------------------------------------- | --------------------------------------------------- |
+| ET Function Test as Predictor    | ✅ Yes                 | Tympanometry + Valsalva                   | >20 daPa shift → successful equalisation            |
+| ET Function in Pressure Chamber  | ✅ Yes                 | Tympanometry + maneuvers under pressure   | ET opening observed via pressure shifts             |
+| Pressure Chamber Tympanometry    | ✅ Yes                 | Tympanometry inside hyperbaric chamber    | Found subclinical ET dysfunction                    |
+| MEBT in Recreational Divers      | ❌ No                  | Post-dive tympanometry                    | Detected temporary barotrauma                       |
+| Regular Diving Middle Ear Health | ❌ No                  | Wideband tympanometry                     | Long-term effects assessed only                     |
+| Tymp. Eval of MEBT in Divers     | ⚠️ Indirect           | Dive repetition effects                   | Detected middle ear stress, not active equalisation |
+| IOSR Audiometry Study            | ✅ Yes                 | Impedance audiometry in surgical patients | Identified ET dysfunction, relevant to diving       |
+| Endoscopy + Audiometry           | ✅ Yes                 | Combined visual and mechanical testing    | Improved ET assessment accuracy                     |
+
+---

@@ -37,17 +37,6 @@ A short pressure pulse is introduced into the nasopharynx while the subject swal
 
 ---
 
-## 4. Manometry
-
-### 🔍 How It Works
-Measures **real-time middle ear pressure** changes during equalisation attempts, often in a pressure chamber. It’s the gold standard in research for tracking equalisation dynamics.
-
-### 🎯 Use in Diving Course
-- **Pros**: Highly accurate.
-- **Cons**: Impractical — expensive, invasive, research-only.
-
----
-
 ## 5. Nasopharyngoscopy
 
 ### 🔍 How It Works
@@ -88,12 +77,22 @@ Provides anatomical views of the ET and surrounding structures. MRI can detect s
 | Tympanometry        | ❌ No       | ✅ Yes      | ⚠️ Moderate         | ⚠️ Clinical setup needed | ❌ No         |
 | Sonotubometry       | ✅ Yes      | ✅ Yes      | ✅ High             | ✅ Suitable with prep    | ❌ No         |
 | Tubomanometry       | ⚠️ Partial  | ✅ Yes      | ⚠️ Moderate         | ⚠️ Limited availability  | ❌ No         |
-| Manometry           | ✅ Yes      | ✅ Yes      | ✅ High             | ❌ Not feasible          | ⚠️ Some       |
 | Nasopharyngoscopy   | ✅ Yes      | ⚠️ Partly   | ✅ High             | ❌ Too invasive          | ✅ Yes        |
 | Video Otoscopy      | ⚠️ Indirect | ⚠️ Subjective| ✅ Very High        | ✅ Easy to use           | ❌ No         |
 | MRI / CT Imaging    | ❌ No       | ✅ Yes      | ⚠️ Low              | ❌ Not practical         | ❌ No         |
 
 ---
+
+| Method                       | How It Works                                                                                                                                                                              | Data Type                         | Assesses ET Function?                             | Access Location                                                                 | Objective / Subjective                  | Invasive?                             |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------------- |
+| **Nasopharyngoscopy**        | A **flexible video endoscope** is inserted via the **nasal cavity** to **visually inspect** the pharyngeal opening of the Eustachian tube during swallowing or Valsalva.                  | 🎥 Video                          | ✅ Visually observes opening                       | ➕ Input: Endoscope via **nasal passage**<br>➕ Output: **Camera in nasopharynx** | Subjective (clinician interprets image) | Minimally invasive                    |
+| **Otoscopy**                 | A **lighted visual inspection** of the **tympanic membrane** using a handheld otoscope through the ear canal.                                                                             | 🎥 Video / Visual                 | ❌ Only indirect signs                             | ➕ Input/Output: Through **external auditory canal**                             | Subjective                              | Non-invasive                          |
+| **Sonotubometry**            | A **sound signal (e.g. 7–8 kHz)** is emitted through the **nose** while microphones placed in the **ear canal** detect sound transmission through the Eustachian tube when it opens.      | 🔉 Audio                          | ✅ Detects passive tube opening                    | ➕ Input: **Nasal sound**<br>➕ Output: **Ear canal microphone**                  | Objective                               | Non-invasive                          |
+| **Tubomanometry**            | Controlled **air pressure pulses** are sent into the **nasopharynx** while the patient swallows. **Pressure sensors** in the ear canal detect whether and when the Eustachian tube opens. | 📈 Pressure vs. Time              | ✅ Quantifies ET opening latency and effectiveness | ➕ Input: **Nasal air pulse**<br>➕ Output: **Ear canal pressure sensor**         | Objective                               | Minimally invasive                    |
+| **Tympanometry**             | A probe in the **ear canal** varies pressure while measuring **eardrum compliance** with reflected sound. Diagnoses fluid, perforation, or retraction.                                    | 📈 Compliance curve               | ❌ Does not test tube opening                      | ➕ Input/Output: All through **ear canal**                                       | Objective                               | Non-invasive                          |
+| **MRI (of ET area)**         | Uses **magnetic resonance imaging** to visualize soft tissue including the Eustachian tube, fluid, and cartilage. No real-time function assessment.                                       | 🖼️ Imaging (Soft Tissue Anatomy) | ❌ No function, only structure                     | ➕ Whole-head imaging (no direct canal access)                                   | Objective                               | Non-invasive                          |
+| **CT (Temporal Bone or ET)** | Uses **X-rays** to reconstruct detailed images of the bony part of the Eustachian tube and middle ear. Good for bony obstruction or structural anomalies.                                 | 🖼️ Imaging (Bone Anatomy)        | ❌ No function, only structure                     | ➕ Whole-head imaging                                                            | Objective                               | Non-invasive (but involves radiation) |
+
 
 ## 🏁 Recommendation
 
@@ -108,7 +107,6 @@ For diving instructors or course designers seeking tools to **teach** and **scre
 - **Nasopharyngoscopy**: Good for ENT lectures, not for beginner courses.
 
 ### ❌ Not Recommended for Course Use
-- **Manometry**: Research-only.
 - **MRI/CT**: Structural insight but impractical and costly.
 
 ---

@@ -32,7 +32,7 @@ This document reviews research involving the application of **sonotubometry** in
 
 ---
 
-## 3. Sonotubometry: A Useful Tool for the Evaluation of the Eustachian Tube
+## 3. Sonotubometry, a useful tool for the evaluation of the Eustachian tube ventilatory function 
 
 - **Journal**: *Journal of Medicine and Life*
 - **Year**: 2014

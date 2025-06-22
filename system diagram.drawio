@@ -1,0 +1,58 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="O_c4kGdEKPWNoD8fyBXs">
+    <mxGraphModel dx="1179" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="Fc9h2Zg-f7eR_xYYB_VT-1" target="Fc9h2Zg-f7eR_xYYB_VT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-1" value="External Ear Canel" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1080" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-3" value="Nostril" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1080" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.blocked-ears.com/templates/yootheme/cache/2a/EB_Tube_Location_E-2a4c5269.jpeg;" vertex="1" parent="1">
+          <mxGeometry x="580" y="450" width="912" height="435" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="Fc9h2Zg-f7eR_xYYB_VT-5" target="Fc9h2Zg-f7eR_xYYB_VT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-5" value="Computer" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="760" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="Fc9h2Zg-f7eR_xYYB_VT-6" target="Fc9h2Zg-f7eR_xYYB_VT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-6" value="Customised USB Speaker" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="920" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="Fc9h2Zg-f7eR_xYYB_VT-10" target="Fc9h2Zg-f7eR_xYYB_VT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-10" value="Nasopharynx,&lt;div&gt;Auditory Tube&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1240" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="Fc9h2Zg-f7eR_xYYB_VT-13" target="Fc9h2Zg-f7eR_xYYB_VT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-13" value="USB Microphone" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="920" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-15" value="Computer" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="Fc9h2Zg-f7eR_xYYB_VT-3" target="Fc9h2Zg-f7eR_xYYB_VT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="Fc9h2Zg-f7eR_xYYB_VT-21" target="Fc9h2Zg-f7eR_xYYB_VT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc9h2Zg-f7eR_xYYB_VT-21" value="&lt;div&gt;Middle Ear,&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ear Drum&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1240" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
